@@ -1,2 +1,2 @@
 # one-page-web-using-tailwind-css-blocks
-Support Us Via Subscribing,shareing.
+Support Us Via Subscribing and shareing.
